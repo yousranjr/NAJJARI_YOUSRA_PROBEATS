@@ -1,0 +1,15 @@
+h1 {
+    color: blue;
+    font-size: 2em;
+    text-align: center;
+    border: 2px solid black;
+    padding: 5px;
+    margin: 10px;
+}
+
+p {
+    color: black;
+    font-size: 1em;
+    text-align: left;
+    margin: 5px;
+}
